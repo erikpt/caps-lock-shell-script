@@ -5,6 +5,6 @@ This started as a response to a tweet from @MLE_Online.
 
 
 <a href="https://twitter.com/MLE_Online/status/1308078099167207424?s=20"> The tweet that started all this <br />
-<img src="//raw.githubusercontent.com/erikpt/caps-lock-shell-script/master/img/mle_tweet.PNG" /></a>
+<img src="https://raw.githubusercontent.com/erikpt/caps-lock-shell-script/master/img/mle_tweet.PNG" /></a>
 
 
